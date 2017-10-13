@@ -1,0 +1,259 @@
+.row{
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.side-nav{
+	padding: 10px 0px 10px 10px;
+	border-right: 1px solid lightgray;
+	border-bottom: 1px solid lightgray;
+}
+
+.fa-outdent{
+	padding: 10px 20px 0px 0px;
+}
+
+.fa{
+	color: grey;
+}
+
+.side{
+	height: 100%;
+	position: fixed;
+	padding: 0px;
+}
+
+.side-navigation{
+	bottom:0;
+	border-right: 1px solid lightgray;
+	height: 100%;
+}
+
+.nav-ul{
+	list-style: none;
+	padding-top: 10px;
+}
+
+li{
+	line-height: 45px;
+	color: grey;
+	font-size: 14px;
+}
+
+li i{
+	width: 15%;
+}
+
+.btn-success{
+	margin-left: 30px;
+	font-size: 14px;
+}
+
+.main-nav{
+	display: inline-block;
+	border-bottom: 1px solid lightgray;
+}
+
+.user-details{
+	width: 141;px;
+}
+
+.user-details *{
+	display: inline;
+	color: grey;
+}
+
+.user-img{
+	height: 30px;
+	width: 30px;
+	border-radius: 25px;
+}
+
+.main-nav .nav-div{
+	display: inline-block;
+	padding-top: 14px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+	border-left: 1px solid lightgray;
+}
+
+.main-content {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.user-info{
+	border-right: 1px solid lightgray;
+	padding: 0px;	
+}
+
+.user-thumbnail{
+	border-bottom: 1px solid lightgray;
+}
+
+.thumbnail-img {
+	margin-top: 20px;
+	margin-left: 33%;
+	border-radius: 50px;
+}
+
+.user-name{
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+.user-loc{
+	text-align: center;
+	font-size: 14px;
+	color: lightgray;
+}
+
+.msg-btn{
+    padding: 3px 6px 3px 6px;
+    position:absolute;
+    top:20px;
+    left:20px;
+}
+
+.star-btn{
+    padding: 3px 6px 3px 6px;
+    position:absolute;
+    top:20px;
+    right:20px;
+}
+
+.fa-star{
+    color: #D4AF37;
+}
+
+.edit-btn{
+    padding: 3px 6px 3px 6px;
+    position:absolute;
+    top:210px;
+    right:20px;
+}
+
+.rating{
+	border-bottom: 1px solid lightgray;	
+}
+
+.rate-title{
+	padding: 20px;
+	margin-bottom: 0px;
+	font-size: 14px;
+}
+
+.rate{
+	text-align: center;
+	font-size: 32px;
+	margin-bottom: 0px;
+}
+
+.rate-txt{
+	text-align: center;
+	color: grey;
+	font-size: 14px;
+}
+
+.Contact , .Shipping , .Social{
+	border-bottom: 1px solid lightgray;
+}
+
+.Contact-title , .Shipping-title, .Social-title, .tag-title{
+	margin-bottom: 0px;
+	padding: 20px;	
+	padding-bottom: 10px;
+	font-size: 14px;
+}
+
+.Contact-email, .Contact-phone ,.Shipping-Street ,.Shipping-City{
+	padding-left: 20px;
+	font-size: 14px;
+	color: grey;
+	margin-bottom: 5px;
+}
+
+.Social-fb , .Social-twitter, .Social-insta, .Social-blog {
+	padding-left: 20px;
+	font-size: 14px;
+	color: grey;
+	margin-bottom: 5px;
+}
+
+.tags{
+	padding: 15px;
+	padding-top: 0px;
+}
+
+.tg{
+	padding: 3px;
+	margin: 3px;
+	background-color: lightgray;
+	color: grey;
+	display: inline-block;
+	font-size: 14px;
+}
+
+.main-area {
+	padding: 0px;
+}
+
+.navbar {
+	padding: 0px;
+	border-bottom: 1px solid lightgray;
+}
+
+.navbar-nav{
+	width: 100%;
+}
+
+.nav-item {
+	color: grey;
+	font-size: 14px;
+	width: 20%;
+	text-align: center;
+}
+
+.active {
+	color: #333;
+	font-weight: 600;
+}
+
+.add-note{
+	padding-bottom: 10px;
+	border-bottom: 1px solid lightgray;
+}
+
+.add-note-title {
+	padding: 20px;
+}
+
+textarea {
+	resize: none;
+}
+
+.notes{
+ background-color: #F7f7f7;
+ padding: 20px;
+}
+
+.note{
+	border: 1px solid lightgray;
+	padding: 20px;
+	background-color: #fff;
+	margin-bottom: 20px;
+}
+
+.note-img{
+	height: 30px;
+	width: 30px;
+	border-radius: 25px;
+	margin-bottom: 20px; 
+}
+
+.read-more{
+	color: blue;
+	font-weight: 600;
+}
